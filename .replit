@@ -1,0 +1,4 @@
+run='''pip3 install pymongo[srv]
+python3 main.py
+python3 keep_alive.py
+'''
